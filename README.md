@@ -1,5 +1,3 @@
-![MasterHead](https://creativeteachered.org/wp-content/uploads/2021/10/SteamBanner5.gif)
-
 <h1 align="center">Hi 👋, I'm Lunan Sun</h1>
 <h3 align="center">A computational physicist who's also enthusiastic about techonology</h3>
 <img align="right" alt="Coding" width="400" src="https://media-exp1.licdn.com/dms/image/D5603AQHLoc0sSk0lbw/profile-displayphoto-shrink_800_800/0/1664836268659?e=2147483647&v=beta&t=Ze3WFJq8QTJaBpG12paZptZrYB7RN3zTRdwzkuWagWo">
