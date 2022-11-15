@@ -2,7 +2,7 @@
 <h3 align="center">A computational physicist who's also enthusiastic about techonology</h3>
 <img align="right" alt="Coding" width="400" src="https://www.linkedin.com/in/lunan-sun-9a7651bb/">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lsun11&label=Profile%20views&color=0e75b6&style=flat" alt="lsun11" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=lsun11&label=Profile%20views&color=0e75b6&style=flat](https://media-exp1.licdn.com/dms/image/D5603AQHLoc0sSk0lbw/profile-displayphoto-shrink_800_800/0/1664836268659?e=2147483647&v=beta&t=Ze3WFJq8QTJaBpG12paZptZrYB7RN3zTRdwzkuWagWo)" alt="lsun11" /> </p>
 
 - 📫 How to reach me **fripsun@gmail.com**
 
