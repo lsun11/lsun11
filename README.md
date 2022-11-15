@@ -1,8 +1,10 @@
 ![MasterHead](https://i.gifer.com/J59.gif)
-<div style="padding-top:56.250%;position:relative;"><iframe src="https://gifer.com/embed/Ve9W" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+
 <h1 align="center">Hi 👋, I'm Lunan Sun</h1>
 <h3 align="center">A computational physicist who's also enthusiastic about techonology</h3>
 <img align="right" alt="Coding" width="400" src="https://media-exp1.licdn.com/dms/image/D5603AQHLoc0sSk0lbw/profile-displayphoto-shrink_800_800/0/1664836268659?e=2147483647&v=beta&t=Ze3WFJq8QTJaBpG12paZptZrYB7RN3zTRdwzkuWagWo">
+
+<div style="padding-top:56.250%;position:relative;"><iframe src="https://gifer.com/embed/Ve9W" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lsun11&label=Profile%20views&color=0e75b6&style=flat" alt="lsun11" /> </p>
 
