@@ -1,4 +1,4 @@
-![MasterHead](https://i.gifer.com/F7Je.gif)
+![MasterHead](https://creativeteachered.org/wp-content/uploads/2021/10/SteamBanner5.gif)
 
 <h1 align="center">Hi 👋, I'm Lunan Sun</h1>
 <h3 align="center">A computational physicist who's also enthusiastic about techonology</h3>
