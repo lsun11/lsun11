@@ -18,7 +18,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon
 alt="https://www.researchgate.net/profile/Lunan-Sun" height="35" width="35" /></a>
 <a href="https://illinois.academia.edu/LunanSun" target="blank"><img align="center" 
 src="https://cdn-icons-png.flaticon.com/512/2111/2111304.png" 
-alt="https://illinois.academia.edu/LunanSun" height="35" width="35" /></a>
+alt="https://illinois.academia.edu/LunanSun" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
