@@ -12,7 +12,7 @@
 <a href="https://instagram.com/https://www.instagram.com/fripsunphys/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fripsunphys/" height="30" width="40" /></a>
 <a href="https://bitbucket.org/lsun11/" target="blank"><img align="center" 
 src="https://www.drupal.org/files/issues/2019-12-12/bitbucket_logo.png" 
-alt="https://bitbucket.org/lsun11/" height="30" width="40" /></a>
+alt="https://bitbucket.org/lsun11/" height="40" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Lunan-Sun" target="blank"><img align="center" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1024px-ResearchGate_icon_SVG.svg.png" 
 alt="https://www.researchgate.net/profile/Lunan-Sun" height="40" width="40" /></a>
